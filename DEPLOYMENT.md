@@ -165,3 +165,5 @@ clarinet check
 ### "ERR-NOT-AUTHORIZED" when using contracts
 - Ensure all authorizations from Step 5 were executed
 - Check that the correct contract principal is authorized
+
+NOTE: Check env vars.
