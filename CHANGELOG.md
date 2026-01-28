@@ -80,3 +80,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 - Frontend scaffolding
 
 ## [Unreleased]
+
+### Section 1
+Added detail about feature 1 to ensure clarity for users.
