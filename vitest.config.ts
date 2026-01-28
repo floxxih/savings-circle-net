@@ -47,3 +47,4 @@ export default defineConfig({
 
 // Updated configuration
 // Todo: optimize step 1
+// Todo: optimize step 2
